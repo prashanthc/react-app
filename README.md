@@ -1,3 +1,4 @@
-# react-jwt-authentication-example
+# React App FE
 
+Install the back-end code from:
 
